@@ -11,12 +11,12 @@ Denormalization techniques:
 
 1. Pre-joining tables
 A redundant column(s) will be added to a table in order to avoid a recurrent join with another table.
-(https://github.com/GustyFox/Database/blob/main/PreJoin.jpg)
+![](https://github.com/GustyFox/Database/blob/main/PreJoin.jpg)
 
 2. Table splitting
 Process of splitting a table, vertically or horizontally, in multiple tables (pre-filtering).
-(https://github.com/GustyFox/Database/blob/main/HorizontalSplit.jpg)
-(https://github.com/GustyFox/Database/blob/main/VerticalSplit.jpg)
+![](https://github.com/GustyFox/Database/blob/main/HorizontalSplit.jpg)
+![](https://github.com/GustyFox/Database/blob/main/VerticalSplit.jpg)
 
 3. Calculated Column
-(https://github.com/GustyFox/Database/blob/main/CalculatedColumn.jpg)
+![](https://github.com/GustyFox/Database/blob/main/CalculatedColumn.jpg)
